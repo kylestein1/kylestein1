@@ -10,4 +10,3 @@ I am a masters student studying Computer Science at Washington University in St.
 
 
 
-![Snake animation](https://raw.githubusercontent.com/kylestein1/kylestein1/output/github-contribution-grid-snake-dark.svg)
